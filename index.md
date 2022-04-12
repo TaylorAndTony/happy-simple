@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## 乐道至简工作室
 
-You can use the [editor on GitHub](https://github.com/TaylorAndTony/happy-simple/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+知页图书编辑制作中心原名知恒图书编辑制作中心，创立于2014年12月，是一个由一群有想法、爱创作的学生组成的文字创作编辑团队。原名“知恒”是由会社口号“知识即是永恒”简化而来的。自会社成立以来，已经编辑和创作了大量作品。在2019年7月，会社还与山东宇杰科技有限公司达成合作，在众多领域交流学习，工作进展顺利。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 我们的作品
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TaylorAndTony/happy-simple/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+【视频】新闻联播历年片头（史上最全最清晰最流畅）
+![](images/xinwen.png)
